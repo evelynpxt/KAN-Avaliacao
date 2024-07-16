@@ -1,11 +1,11 @@
-# KAN-Avaliacao
+# crud kan java spring boot 
 
 ```
 Descrição do Projeto: Gestão de Beneficiários
 
 O Sistema de Gestão de Beneficiários é serviço backend desenvolvida para facilitar a administração e o controle de beneficiários em uma organização. Este sistema permite aos usuários realizar operações básicas de CRUD (Create, Read, Update, Delete) sobre os registros de beneficiários, garantindo eficiência e precisão na gestão de dados.
 
-Funcionalidades :
+Funcionalidades Principais:
 
 Cadastro de Beneficiários: Permite registrar novos beneficiários incluindo informações como nome, CPF, data de nascimento, endereço, entre outros dados relevantes.
 
@@ -71,3 +71,5 @@ jdbc:h2:mem:testdb
 
 user - sa
 password - consulta o arquivo application.yml
+
+```
